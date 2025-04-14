@@ -1,3 +1,6 @@
 {
-  "message": "[Test] This is a Test"
+  "T": 1,
+  "message": "[Test] This is a Test",
+  "errors": null,
+  "data": null
 }
