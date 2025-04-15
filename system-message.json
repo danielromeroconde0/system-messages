@@ -1,8 +1,8 @@
 {
    "T": 1,
-   "Message": "Success",
-   "Errors": null,
-   "Data": {
+   "M": "Success",
+   "E": null,
+   "D": {
      "message": "[Test] This is a Test."
    }
  }
